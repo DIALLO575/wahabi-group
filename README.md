@@ -15,7 +15,7 @@ Premium editorial static site, in French, based on the first approved corporate 
 
 ## Content and media safeguards
 
-See CONTENT_SOURCES.md. Images are editorial illustrative photography, **not** representations of company property. The header W is an interim typographic brand mark; exact approved group logo must replace it when safely exported from Notion. Other business logos are authentic assets from Drive Work.
+See CONTENT_SOURCES.md. Images are editorial illustrative photography, **not** representations of company property. The group header emblem is cropped directly from the approved WAHABI GROUP artwork in Notion, and the group page shows the complete image. The other business logos come from Drive Work. Other business logos are authentic assets from Drive Work.
 
 ## Deployment
 

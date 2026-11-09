@@ -2,7 +2,7 @@
 
 Verified on 9 November 2026 against internal Notion and Drive.
 
-- WAHABI GROUP corporate identity and palette: Notion https://app.notion.com/p/40763a5022e481aca3e5d99ff4d35529. Group logo master was only available as a Notion attachment at initial integration; site header uses a simple typographic W while the exact approved corporate emblem is pending extraction. Do NOT claim the typographic icon is the approved master.
+- WAHABI GROUP corporate identity and palette: Notion https://app.notion.com/p/40763a5022e481aca3e5d99ff4d35529. Approved group emblem extracted from Notion artwork `WAHABI_GROUP_Metallic_Corporate_Emblem.png`; header uses a cropped version of the exact original image and group page includes a complete version, both optimized to WEBP. The original Notion image is the source of truth; vector master still needs final production preparation.
 - WAHABI & FILS active commercial organization: https://app.notion.com/p/3f763a5022e48183a756f466ba1da57f ; actual Drive photo of company logo explicitly states Quincaillerie — Électricité — Plomberie. Image: Drive file 1AoqEMG7rJfgOobVOf7Qqr35Sc5RqiEM1.
 - DARVIL project in preparation, not an incorporated independent company: https://app.notion.com/p/41363a5022e481a5a0f4decab16c0219 ; logo: Drive file 19EEEFdigwI5nqPrSy0aAXQRgz7cU-AzN.
 - Public email contact@wahabifils.com: https://app.notion.com/p/40e63a5022e481e79a00cc2b68836ced ; DNS records observed but mailbox deliverability not guaranteed.
