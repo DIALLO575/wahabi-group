@@ -24,3 +24,7 @@ Static project, root directory '.', no install/build command. Vercel Git integra
 ## Quality
 
 Test mobile menu, keyboard Escape, homepage links, activity status, email links, console errors and 320/375/768/1440px viewports. Avoid publishing new contact/social links without verifying ownership.
+
+## Image performance
+
+All photographic backgrounds are versioned WebP files in `assets/media/`, served by Vercel with long-lived immutable cache headers. The hero preloads a small portrait crop on phones and a 1500px landscape variant on desktop. Company logos retain original PNG backups while pages show lightweight WebP versions. The photographs are illustrative, not depictions of WAHABI offices or operations. On replacing an asset, increment its filename version to avoid stale cache.
