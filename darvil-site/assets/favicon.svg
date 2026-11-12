@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="title">
+  <title id="title">DARVIL</title>
+  <rect width="64" height="64" rx="12" fill="#fff"/>
+  <!-- Compact vector mark following DARVIL's existing interlocking green and gold identity. -->
+  <path d="M10 18 22 8h27L38 20H27L14 34H10Z" fill="#1E5341"/>
+  <path d="m14 29 11-12h13L23 35l-8 8H9Z" fill="#1E5341"/>
+  <path d="M52 14v18L37 52H16l11-12h9l10-13V14Z" fill="#C7A04D"/>
+  <path d="m25 33 10-12h13L37 34H25Z" fill="#E0B866"/>
+</svg>
