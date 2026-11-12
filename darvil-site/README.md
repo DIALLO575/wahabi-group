@@ -20,3 +20,15 @@ Content and publication approval required before treating this as an active comm
 - Detail pages explicitly distinguish confirmed *internal Notion status* from public operational verification. Do not publish personal staff contact numbers or undisclosed rates.
 - Supplier and transport pages show facts / searchable cards with minimal narrative; the home page carries the brand/story.
 - **Static** public snapshot. Contact links are a client-side email draft, no order-taking or live availability.
+
+## Official brand marks — 12 November 2026
+
+Logo URLs taken from company-owned sites, used only as nominative identifiers. Logos are displayed on relevant supplier cards and detail pages; not endorsements or partnership validation.
+
+- HANBON: https://www.hanbontools.com/aboutus.html — https://iororwxhlmmolq5m-static.micyjz.com/cloud/poBpnKklloSRqlpkiqnkkp/logo.png (source-owned image)
+- HBAPOS / HBA Intelligent Technology: https://hbapos.com/ — https://hbapos.com/wp-content/uploads/2026/03/hba-logo.png (source-owned image)
+- Million Plastics / Linyi Million Plastic Products: https://milliontarpaulin.com/ — https://ecdn6.globalso.com/upload/p/997/image_other/2026-02/logo1.png (source-owned image; company identity also corroborated by industry directory)
+
+Unconfirmed/not found: Zhongshan Dashunda, Linyi Xinda, Guangzhou Rising, Mame Cargo, Media7 Cargo, JFK Cargo. Keep their initials instead of substituting an unrelated brand or an unverified third-party logo. No logos found in the searched work/personal Drive image filenames or linked Notion image fields. A historical JFK poster exists in Notion but contains personal phone numbers and is not appropriate to publish unedited.
+
+Implementation: direct official-site assets (not self-hosted yet), lazy loaded with a fallback monogram if the source URL stops working. For robust long-term hosting, request a high-quality logo file from the supplier or secure a verified source file suitable for storing locally.
